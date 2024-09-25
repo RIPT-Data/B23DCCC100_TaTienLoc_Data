@@ -38,7 +38,7 @@ Crawler Data có nhiều ứng dụng trong các lĩnh vực khác nhau, bao g�
 
 ## Chương trình mẫu
 
-Trong phần này, chúng ta sẽ viết một chương trình crawler đơn giản bằng Python để thu thập tiêu đề và liên kết các bài báo từ trang BBC News và lưu thông tin vào file CSV.
+Trong phần này, chúng ta sẽ viết một chương trình crawler đơn giản bằng Python để thu thập tiêu đề và liên kết các bài báo từ trang Vnexpress và lưu thông tin vào file CSV.
 
 ### Yêu cầu
 
